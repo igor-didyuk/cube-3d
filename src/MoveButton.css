@@ -1,0 +1,26 @@
+button.move {
+    width: 3em;
+    height: 3em;
+    margin: 1px;
+    border-width: 1px;
+    border-radius: 8px;
+
+}
+button.faceF {
+    background-color: #FFFFFF;
+}
+button.faceB {
+    background-color: #FFFF00;
+}
+button.faceU {
+    background-color: #00FF00;
+}
+button.faceD {
+    background-color: #0000FF;
+}
+button.faceL {
+    background-color: #FF0000;
+}
+button.faceR {
+    background-color: #FF7F00;
+}

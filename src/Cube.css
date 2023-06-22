@@ -1,0 +1,15 @@
+div.plot {
+    position: relative;
+    height:800px;
+}
+
+div.plot > canvas#gl3d {
+    position: absolute;
+    width:800px;
+    height:800px;
+    border: solid 2px black;
+}
+div.control {
+    position: absolute;
+    left: 850px;
+}
